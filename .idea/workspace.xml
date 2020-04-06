@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ea07fbc-4d17-43d2-a6ea-62aa9b2a03e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.api.php" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.features.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.features.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.info" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.info.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.info.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.install" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.module" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.test" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.tpl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity_token.info" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity_token.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity_token.tokens.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity_token.tokens.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/includes/entity.controller.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/includes/entity.controller.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/includes/entity.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/includes/entity.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/includes/entity.property.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/includes/entity.property.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/includes/entity.ui.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/includes/entity.ui.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/includes/entity.wrapper.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/includes/entity.wrapper.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/modules/book.info.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/modules/book.info.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/modules/callbacks.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/modules/callbacks.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/modules/comment.info.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/modules/comment.info.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/modules/field.info.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/modules/field.info.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/modules/node.info.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/modules/node.info.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/modules/statistics.info.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/modules/statistics.info.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/modules/user.info.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/modules/user.info.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/tests/entity_feature.info" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/tests/entity_feature.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/tests/entity_test.info" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/tests/entity_test.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/tests/entity_test.install" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/tests/entity_test.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/tests/entity_test.module" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/tests/entity_test.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/entity.views.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/entity.views.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/handlers/entity_views_field_handler_helper.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/handlers/entity_views_field_handler_helper.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/handlers/entity_views_handler_field_duration.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/handlers/entity_views_handler_field_duration.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/handlers/entity_views_handler_field_entity.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/handlers/entity_views_handler_field_entity.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/handlers/entity_views_handler_field_field.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/handlers/entity_views_handler_field_field.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/handlers/entity_views_handler_field_options.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/handlers/entity_views_handler_field_options.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/handlers/entity_views_handler_field_text.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/handlers/entity_views_handler_field_text.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/handlers/entity_views_handler_relationship_by_bundle.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/handlers/entity_views_handler_relationship_by_bundle.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/plugins/entity_views_plugin_row_entity_view.inc" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/views/plugins/entity_views_plugin_row_entity_view.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/images/icons/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/images/icons/facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/images/icons/vimeo.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/images/icons/vimeo.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="583" column="22" selection-start-line="583" selection-start-column="22" selection-end-line="583" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>header</find>
+      <find>header .section</find>
+      <find>header-top</find>
+      <find>social</find>
+      <find>#header .section</find>
+      <find>ul.main-menu</find>
+      <find>.sf-menu ul</find>
+      <find>.sf-menu ul li</find>
+      <find>footer</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/data/apache/web" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="traver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traver" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traver" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traver" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traver" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traver" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traver" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traver" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="solaris" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traver" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="solaris" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traver" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="solaris" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traver" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="solaris" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ea07fbc-4d17-43d2-a6ea-62aa9b2a03e7" name="Default Changelist" comment="" />
+      <created>1585647514243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585647514243</updated>
+      <workItem from="1585647515772" duration="13552000" />
+      <workItem from="1585837133996" duration="10716000" />
+      <workItem from="1586163209110" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24862000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25642672" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.39165545" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/css/style20140324.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/css/style_20140220.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2839" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="255" column="17" lean-forward="true" selection-start-line="255" selection-start-column="17" selection-end-line="255" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/images/social_icons.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/apache/web/sites/all/modules/custom/pictonio/pictonio.info">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/apache/web/sites/all/modules/custom/pictonio/pictonio.install">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/apache/web/sites/all/modules/custom/pictonio/pictonio.module">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="583" column="22" selection-start-line="583" selection-start-column="22" selection-end-line="583" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
