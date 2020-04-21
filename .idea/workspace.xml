@@ -57,7 +57,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
+            <state relative-caret-position="461">
               <caret line="2892" selection-start-line="2892" selection-end-line="2892" />
             </state>
           </provider>
@@ -246,12 +246,12 @@
       <workItem from="1586338185203" duration="5668000" />
       <workItem from="1586948326551" duration="6128000" />
       <workItem from="1587389293731" duration="9566000" />
-      <workItem from="1587495158702" duration="509000" />
+      <workItem from="1587495158702" duration="2068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51017000" />
+    <option name="totallyTimeSpent" value="52549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -312,7 +312,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
+        <state relative-caret-position="461">
           <caret line="2892" selection-start-line="2892" selection-end-line="2892" />
         </state>
       </provider>
