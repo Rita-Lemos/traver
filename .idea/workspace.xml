@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ea07fbc-4d17-43d2-a6ea-62aa9b2a03e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/apache/web" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/README.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.api.php" beforeDir="false" afterPath="$PROJECT_DIR$/data/apache/web/sites/all/modules/entity/entity.api.php" afterDir="false" />
@@ -58,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="2892" lean-forward="true" selection-start-line="2892" selection-end-line="2892" />
+            <state relative-caret-position="427">
+              <caret line="2892" selection-start-line="2892" selection-end-line="2892" />
             </state>
           </provider>
         </entry>
@@ -105,6 +104,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,7 +209,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,16 +246,17 @@
       <workItem from="1586338185203" duration="5668000" />
       <workItem from="1586948326551" duration="6128000" />
       <workItem from="1587389293731" duration="9566000" />
+      <workItem from="1587495158702" duration="509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50481000" />
+    <option name="totallyTimeSpent" value="51017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2692802" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27249357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -312,8 +312,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/apache/web/sites/all/themes/solaris/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="2892" lean-forward="true" selection-start-line="2892" selection-end-line="2892" />
+        <state relative-caret-position="427">
+          <caret line="2892" selection-start-line="2892" selection-end-line="2892" />
         </state>
       </provider>
     </entry>
